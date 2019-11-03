@@ -12,5 +12,6 @@ public class TestGit {
     public void test(){
         System.out.println("Hello test");
         System.out.println("再次修改");
+        System.out.println("从远程仓库clone项目");
     }
 }
